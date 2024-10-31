@@ -1,4 +1,10 @@
-<h1 align="left">Hi 👋! My name is Corentin and I'm a fullstack developper from Belgium.</h1>
+# Hi there! 👋
+
+I'm Corentin, a passionate problem-solver specializing in web development and backend systems. I believe in the power of clean code and continuous learning. Let’s build something great together!
+
+## About Me
+
+Based in **Belgium**, I'm currently working at **Eachstapp**. I thrive on challenges and enjoy crafting solutions that make a difference. My journey in tech has been fueled by curiosity and a desire to innovate.
 
 ###
 
@@ -21,12 +27,7 @@
  <img src="https://skillicons.dev/icons?i=bash,html,css,js,ts,c,cs,java&theme=dark" height="64" />
 </div>
 
-<h2>Others</h2>
+<h2>Frameworks</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,dotnet,spring&theme=dark" height="64" />
-</div>
-
-<h2>DevOps</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,adonis,dotnet,spring,jest&theme=dark" height="64" />
 </div>
