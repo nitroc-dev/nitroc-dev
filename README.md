@@ -29,5 +29,5 @@ Based in **Belgium**, I'm currently working at **Eachstapp**. I thrive on challe
 
 <h2>Frameworks</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,adonis,dotnet,spring,jest&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,nestjs,dotnet,postgres,mongodb&theme=dark" height="64" />
 </div>
