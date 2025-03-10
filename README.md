@@ -17,12 +17,12 @@ I'm Corentin, a passionate problem-solver specializing in web development and ba
 
 ### Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,dotnet,express&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,dotnet,express,spring&theme=dark" height="64" />
 </div>
 
 ### Tools & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,githubactions&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,githubactions&theme=dark" height="64" />
 </div>
 
 
